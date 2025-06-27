@@ -45,9 +45,9 @@ gif:
 
 op.4:
 
-[start scene](prog1.4/Assets/Scenes/op.4/op.4 start.unity)
+[start scene](prog1.4/Assets/Scenes/op.4/op.4start.unity)
 
-[other scene](prog1.4/Assets/Scenes/op.4/op.4 other.unity)
+[other scene](prog1.4/Assets/Scenes/op.4/op.4other.unity)
 
 scripts:
 
