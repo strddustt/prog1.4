@@ -12,7 +12,7 @@ scripts:
 
 gif:
 
-![gif](https://github.com/user-attachments/assets/24e77102-528c-40e0-8aa5-108bcb7ce69b)
+![gif](https://github.com/user-attachments/assets/d8540c3a-e7d3-4449-98af-f233b2a1800)
 
 
 op.2:
